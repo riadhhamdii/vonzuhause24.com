@@ -1,0 +1,32 @@
+.invalidField { background-color: #f00; }
+
+.subhead3 { font-family: Arial, Helvetica, sans-serif; color: #333333; font-size: 20px; text-decoration: none; font-weight: bold; margin-top: 40px; margin-left: 0px; line-height: 25px; width: 230px; }
+
+.unnamed1 { color: #333333; font-size: 15px; font-family: Arial; line-height: 22px; width: 230px; height: 45px; padding: 10px; border: solid 3px #eaeaea; outline-width: 0; }
+.unnamed1a { color: #333333; font-size: 15px; font-family: Arial; line-height: 22px; width: 230px; height: 45px; padding: 10px; border: solid 3px #eaeaea; outline-width: 0; margin-top: 4px;}
+
+.unnamed2 { color: #333333; font-size: 15px; font-family: Arial; line-height: 22px; width: 204px; height: 20px; padding: 10px; border: solid 3px #eaeaea; outline-width: 0; margin-top: 4px;}
+
+.unnamed3 { color: #333333; font-size: 15px; font-family: Arial; line-height: 22px; width: 60px; height: 20px; padding: 10px; border: solid 3px #eaeaea; outline-width: 0; margin-top: 4px;}
+
+.unnamed4 { color: #333333; font-size: 15px; font-family: Arial; line-height: 22px; width: 204px; height: 20px; padding: 10px; border: solid 3px #eaeaea; outline-width: 0; margin-top: 4px;}
+
+.button { font-size: 22px; color: #FFF; width: 230px; height: 50px; padding: 2px; border: 0px; outline-width: 0; background-image: linear-gradient(to bottom, #FF98C00, #F68B00); background-repeat: repeat-x;box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);cursor: pointer;background-color: #F68B00;cursor: pointer; }
+
+.opt_text { color: #333333; font-size: 13px; text-decoration: none; outline-width: 0; }
+
+.opt_link a:link { color: #cc0000; font-size: 13px; text-decoration: none; outline-width: 0; }
+
+.opt_link a:visited { color: #cc0000; font-size: 13px; text-decoration: none; outline-width: 0; }
+
+.opt_link a:hover { color: #cc0000; font-size: 13px; text-decoration: underline; outline-width: 0; }
+
+.footer { color: #000000; font-family: Arial; font-size: 13px; text-align: center; width: 500px; height: 70px; position: relative; left: 153px; top: -20px;}
+
+.footer_link a:link { color: #000000; text-decoration: none; border-bottom: 1px solid transparent; outline-width: 0; }
+
+.footer_link a:visited { color: #000000; text-decoration: none; border-bottom: 1px solid transparent; outline-width: 0; }
+
+.footer_link a:hover { color: #000000; text-decoration: none; border-bottom: 1px solid #980048; outline-width: 0; }
+
+.selectLang { width: 150px; padding: 2px; }

@@ -1,0 +1,1 @@
+<!--function EBID(k){    return(document.getElementById(k));}function markFieldAsInvalid(f){    if(EBID(f)) EBID(f).className = EBID(f).className + ' invalidField';}-->
